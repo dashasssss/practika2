@@ -1,0 +1,46 @@
+Gearing Up: Podcasting for Filmmakers
+Ready to venture into the world of podcasting?
+Well, the good news is, there is a low barrier to entry, meaning you don’t need much in the way of equipment to
+set up shop: a digital recorder, microphone, headphones, editing software and a few peripherals are about what it takes.
+
+Remember, It’s the Story That Matters.
+
+Of course, having top-of-the-line equipment would be nice, but it’s all in the way you use it—how you position
+the mic, how close you get the mic to the subject (which is different for film vs. audio). And of course, how comfortable
+you make the subject feel is key.
+
+First, you’re going to need a way to record your audio. For this you have two options: Recording directly into a computer,
+or recording with field gear.
+
+Let’s assume that you’re going to get out of the studio and record with field gear.
+
+Field Recorders
+We’ve reached a point where you can get relatively affordable field recorders that are versatile enough to be used in a
+lot of circumstances and get good sound.
+
+Zoom H5 $280—The Zoom H5 is a step up from the H4N. For many years it was unusual not to see a Zoom H4N on set (remember
+ the days when DSLRs like the Canon 5D first came out and audio was a big issue?). The H4N got the job done but it was a bit noisy
+ and clunky to use. The H5 is a significant improvement over the H4N because it is quieter and the controls are better. Battery life
+ is also improved as the H5 can last up to 15 hours on a pair of AA batteries. The H4N, on the other hand, lasts from six to ten hours.
+  The H5 has nice built-in stereo microphones that are really good for picking up vivid stereo ambiences—i.e. a protest, a parade
+  or music—but for interviews you will very likely want to use a microphone. To that end, the H5 has two XLR inputs (rather than minijacks).
+  This allows you to use condenser microphones, which need phantom power.
+
+Tascam DR 100 Mark III $400—On the Tascam side, the DR 100 Mark III is the equivalent to the Zoom H5. With two XLR inputs and
+built-in stereo mics, it is similar to the Zoom H5. Overall, the sound quality is outstanding, especially when using external microphones.
+ One of the big differences between the H5 and this recorder is that the DR 100 Mark 3 has a built-in rechargeable battery.
+ Yes, the battery needs to be charged up by USB, but once it’s charged, it will run for six to seven hours.
+  If you get in the habit of leaving the DR 100 Mark 3 charged up, you can just go out and not worry about swapping AA batteries.
+  Plus, the DR 100 Mark III has a little port for AA batteries, so if your rechargeable battery has died out in the field, you can still swap in a couple of AAs. The AA batteries may last only a couple of hours, but this may be your saving grace out in the field.  At $400, it's not the cheapest recorder in the world, but you are getting excellent sound quality.
+
+Sony PCM D-100/PCM D-10 $780—For many years the Sony standard bearer in digital recorders has been the PCM D-100. It is a top-of-the-line recorder with excellent sound quality and battery life. But, it only has minijack inputs. This is not a huge problem as you can adapt a lot of standard microphones to minijack, but the jack itself isn’t as reliable as an XLR input. Plus, certain microphones require phantom power, and you cannot provide that from a minijack. Earlier this year Sony came out with a newer model, the PCM D-10. The big change is it has two XLR inputs. If you are looking for a Sony product, this new recorder may be your choice.
+
+
+Microphones
+Before getting into mics, a bit of Audio Production 101:
+
+Dynamic vs. condenser has to do with the microphone’s sensitivity. Dynamic mics work better to record loud sounds, whereas condenser mics pick up sound with greater detail and accuracy but are more fragile (they’re more often used in studios).
+
+Large diaphragm vs. small diaphragm has to do with the size of the capsule. Large diaphragm microphones are usually used for narration and voiceover, which can make it kind of impractical for field use (although using a boom stand/mic stand is one solution).
+
+If you already have a good shotgun mic, you can use that for voiceover, interviews, etc., but whatever mic you do use, learn the microphone. You will also want to get used to being a little closer than you would be for shooting film.
